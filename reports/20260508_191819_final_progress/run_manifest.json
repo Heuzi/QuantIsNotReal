@@ -1,0 +1,50 @@
+{
+  "anchor_date_arg": null,
+  "consider_exit_count": 0,
+  "data_max_date": "2026-05-07",
+  "data_min_date": "1997-07-30",
+  "dataset_root": "data\\eodhd_us_equities_30y",
+  "entry_candidate_count": 212,
+  "hold_count": 0,
+  "latest_inference_dir": "D:\\QuantWithNNkNN\\data\\eodhd_us_equities_30y\\processed\\latest_inference",
+  "latest_inference_manifest": {
+    "cache_reused": true,
+    "context_tickers": 12,
+    "dataset_root": "D:\\QuantWithNNkNN\\data\\eodhd_us_equities_30y",
+    "fetch": {
+      "estimated_bulk_api_call_units": 0,
+      "fetch_status": "skipped",
+      "local_data_end_date_before_fetch": "2026-05-07",
+      "planned_fetch_dates": [],
+      "skipped_fetch": true
+    },
+    "generated_utc": "2026-05-08T20:27:46Z",
+    "include_test_symbols": false,
+    "latest_context_feature_rows": 1680,
+    "latest_inference_dir": "D:\\QuantWithNNkNN\\data\\eodhd_us_equities_30y\\processed\\latest_inference",
+    "latest_stock_feature_rows": 2389605,
+    "local_data_end_date": "2026-05-07",
+    "mode": "latest_inference_daily_refresh",
+    "skip_fundamentals": false,
+    "skip_sentiment": false,
+    "stock_tickers": 17449,
+    "universe_rows_loaded": 17449
+  },
+  "model_count": 3,
+  "open_position_review_rows": 0,
+  "position_ledger": "data\\open_positions.csv",
+  "position_ledger_exists": false,
+  "prediction_rows": 14322,
+  "ranked_signal_rows": 4774,
+  "recent_feature_rows": 2389605,
+  "recent_tickers": 17448,
+  "review_count": 0,
+  "run_date": "2026-05-08T20:27:33Z",
+  "run_dirs": [
+    "artifacts\\v1_baselines\\eodhd_true_full_xgboost",
+    "artifacts\\v1_baselines\\eodhd_true_full_torch_mlp",
+    "artifacts\\v1_baselines\\eodhd_true_full_torch_seq_static"
+  ],
+  "sell_signal_count": 0,
+  "watchlist_count": 265
+}

@@ -1,0 +1,2 @@
+run_date,dataset_root,data_min_date,data_max_date,recent_feature_rows,recent_tickers,prediction_rows,ranked_signal_rows,entry_candidate_count,watchlist_count,position_ledger,position_ledger_exists,open_position_review_rows,hold_count,review_count,consider_exit_count,sell_signal_count
+2026-05-08T20:27:33Z,data\eodhd_us_equities_30y,1997-07-30,2026-05-07,2389605,17448,14322,4774,212,265,data\open_positions.csv,False,0,0,0,0,0

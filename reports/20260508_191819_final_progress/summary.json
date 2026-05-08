@@ -1,0 +1,19 @@
+{
+  "consider_exit_count": 0,
+  "data_max_date": "2026-05-07",
+  "data_min_date": "1997-07-30",
+  "dataset_root": "data\\eodhd_us_equities_30y",
+  "entry_candidate_count": 212,
+  "hold_count": 0,
+  "open_position_review_rows": 0,
+  "position_ledger": "data\\open_positions.csv",
+  "position_ledger_exists": false,
+  "prediction_rows": 14322,
+  "ranked_signal_rows": 4774,
+  "recent_feature_rows": 2389605,
+  "recent_tickers": 17448,
+  "review_count": 0,
+  "run_date": "2026-05-08T20:27:33Z",
+  "sell_signal_count": 0,
+  "watchlist_count": 265
+}
