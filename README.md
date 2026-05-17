@@ -8,6 +8,12 @@ The purpose of this repository is to create a transparent, time-stamped record o
 
 The underlying algorithm is proprietary and not disclosed in this public repository.
 
+## How
+
+Experimenting with 20+ models, trained, validated, and tested on a history of 30 years of stock data. About 40M data points are used, each data point is a stock window labeled with win/loss/or draw.
+
+We evetually decide to use 3 independent models, with historical out-of-sample accuracies of approximately 47.8%, 45.2%, and 44.9%, compared to a base success rate of 42.38%. This means the models showed an ability to identify favorable opportunities better than the average stock in the tested universe. More importantly, when focusing only on each model’s highest-ranked top decile of opportunities, historical success rates increased to approximately 59.1%, 52.6%, and 48.8%. The final report should be used as a consultation and decision-support tool only; market conditions change, results are not guaranteed, and human judgment is still needed before making any investment decision.
+
 ## What This Repository Shows
 
 This repository may include:
