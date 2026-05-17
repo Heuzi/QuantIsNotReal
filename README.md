@@ -1,3 +1,6 @@
+... and money is just a number.
+
+
 # Public Trading Signal History
 
 ## Overview
