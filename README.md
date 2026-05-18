@@ -9,6 +9,8 @@ This repository publicly tracks the trading-signal history of an experimental AI
 
 The purpose of this repository is to create a transparent, time-stamped record of how the system performs when used prospectively. Instead of only reporting retrospective backtests, this repository records signals, watchlists, and trade-management notes over time.
 
+Easiest way to read the report is to read the ensemble_score, which is calculated from average of scores by multiple models. Each model produce a score as "probability(win) - probability(lose)". 
+
 The underlying algorithm is proprietary and not disclosed in this public repository.
 
 ## How
